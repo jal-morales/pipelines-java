@@ -1,5 +1,4 @@
-Realizando cambios profe
-Realizando prueba para la sumativa1
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
